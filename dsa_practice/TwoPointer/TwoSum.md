@@ -19,6 +19,10 @@ Output: [1,2]
 Explanation: The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We return [1, 2].
 
 APPROACH: TWO POINTER
+Time complexcity: O(n)
+Space complexcity: O(1)
 
 Two Sum - Input Array Is not Sorted + return index not value 
 APPROACH: HASHMAP
+Time complexcity: O(n)
+Space complexcity: O(n)
