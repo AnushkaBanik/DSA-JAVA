@@ -5,8 +5,8 @@ Consider the number of unique elements in nums to be k​​​​​​​​�
 The first k elements of nums should contain the unique numbers in sorted order. The remaining elements beyond index k - 1 can be ignored.
 
 Approach:Two pointer
-Time complexcity: O(n)
-Space complexcity: O(1)
+Time complexity: O(n)
+Space complexity: O(1)
 
 problem:80 Leetcode(Remove some duplicates in-place such that each unique element appears at most how many times[d] questions want )
 
@@ -16,5 +16,5 @@ Return k after placing the final result in the first k slots of nums.
 Do not allocate extra space for another array. You must do this by modifying the input array in-place with O(1) extra memory.
 
 Approach:Two pointer
-Time complexcity: O(n)
-Space complexcity: O(1)
+Time complexity: O(n)
+Space complexity: O(1)
