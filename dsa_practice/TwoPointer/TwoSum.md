@@ -24,5 +24,5 @@ Space complexcity: O(1)
 
 Two Sum - Input Array Is not Sorted + return index not value 
 APPROACH: HASHMAP
-Time complexcity: O(n)
-Space complexcity: O(n)
+Time complexity: O(n)
+Space complexity: O(n)
