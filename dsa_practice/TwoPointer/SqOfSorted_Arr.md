@@ -11,8 +11,6 @@ Time Complexity:O(nlogn)[cause we know that for using sort method it will become
 Space Complexity:O(1)
 i use Arrays.sort() after sq. of each number thats why TC is O(nlogn).
 
-
-
 problem: Squaring each element and sorting the new array is very trivial, could you find an O(n) solution using a different approach?
 
  Notes: Don't do sorting in the program if needed.we returnd sorted array as a result but without use sorting then TC and SC become O(n).
